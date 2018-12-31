@@ -1,0 +1,22 @@
+{
+  "name": "zksnark",
+  "version": "1.0.0",
+  "description": "a testing playground for zksnark (beginner)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmaijoe/zksnark.git"
+  },
+  "keywords": [
+    "zksnark"
+  ],
+  "author": "gmaijoe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmaijoe/zksnark/issues"
+  },
+  "homepage": "https://github.com/gmaijoe/zksnark#readme"
+}
