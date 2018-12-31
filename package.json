@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/gmaijoe/zksnark/issues"
   },
-  "homepage": "https://github.com/gmaijoe/zksnark#readme"
+  "homepage": "https://github.com/gmaijoe/zksnark#readme",
+  "dependencies": {
+    "circom": "0.0.24",
+    "snarkjs": "^0.1.9"
+  }
 }
